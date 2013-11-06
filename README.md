@@ -1,9 +1,9 @@
 UVa-Solutions
 =============
 
-Solutions to programming problems from [UVa Online Judge](http://uva.onlinejudge.org/).
+Solutions to programming problems sorted by judge.
 
-List of problems solved.
+[UVa Online Judge](http://uva.onlinejudge.org/).
 ------------------------
 
 - [10004 - Bicoloring](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945)
@@ -14,3 +14,11 @@ List of problems solved.
 - [11234 - Expressions](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2175)
 - [673 - Parentheses Balance](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=614)
 - [729 - The Hamming Distance Problem](http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=670)
+
+[Peking University Online Judge](http://poj.org/).
+------------------------ 
+- [1125 -- Stockbroker Grapevine](http://poj.org/problem?id=1125)
+
+[Sphere Online Judge](http://www.spoj.com/)
+------------------------ 
+- [3188. Minimum Spanning Tree](http://www.spoj.com/problems/MST/)
