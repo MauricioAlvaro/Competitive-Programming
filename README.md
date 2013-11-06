@@ -1,4 +1,4 @@
-UVa-Solutions
+Competitive Programming
 =============
 
 Solutions to programming problems sorted by judge.
