@@ -14,6 +14,7 @@ Solutions to programming problems sorted by judge.
 - [11234 - Expressions](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2175)
 - [673 - Parentheses Balance](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=614)
 - [729 - The Hamming Distance Problem](http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=670)
+- [10034 - Freckles](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975)
 
 [Peking University Online Judge](http://poj.org/).
 ------------------------ 
