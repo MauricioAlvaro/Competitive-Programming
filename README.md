@@ -16,6 +16,7 @@ Solutions to programming problems sorted by judge.
 - [729 - The Hamming Distance Problem](http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=670)
 - [10034 - Freckles](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975)
 - [336 - A Node Too Far](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=272)
+- [10538 - Ubiquitous Religions](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1524)
 
 [Peking University Online Judge](http://poj.org/)
 ------------------------ 
