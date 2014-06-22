@@ -27,3 +27,8 @@ Solutions to programming problems sorted by judge.
 [Sphere Online Judge](http://www.spoj.com/)
 ------------------------ 
 - [3188. Minimum Spanning Tree](http://www.spoj.com/problems/MST/)
+
+[Codeforces](http://codeforces.com/)
+------------------------ 
+- [277A - Learning Languages](http://codeforces.com/problemset/problem/277/A)
+
